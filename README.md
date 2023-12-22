@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm  Achille</h1>
+<h3 align="center">Student at Bit</h3>
 
 
 <br>
@@ -34,7 +35,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      alt="c" width="40" height="40" />
+</a> <a href="https://en.cppreference.com/w/cpp/language" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> 
@@ -46,7 +48,7 @@
       alt="html5" width="40" height="40" /> </a> <a href="https://www.rust-lang.org/"
     target="_blank" rel="noreferrer">
 <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust" width="40"
+      src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png" alt="rust" width="40"
       height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
