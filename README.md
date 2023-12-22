@@ -79,6 +79,9 @@
       alt="vue" width="40" height="40"  /> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
 <img
       src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40"
+      height="40" /></a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+<img
+      src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="flutter" width="40"
       height="40" />
 
 <br>
