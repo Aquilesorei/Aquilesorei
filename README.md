@@ -81,6 +81,11 @@
       src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40"
       height="40" />
 
+       </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+<img
+      src="https://github.com/devicons/devicon/raw/master/icons/arduino/arduino-original.svg" alt="arduino" width="40"
+      height="40" />
+
 <br>
 
 <h3>Statistical Data :-</h3>
