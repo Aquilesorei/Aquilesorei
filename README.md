@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm  Achille</h1>
-<!-- <h3 align="center">Student at Bit</h3> -->
 
 
 <br>
@@ -7,11 +6,10 @@
 <p><img align="right" src="https://github.com/Aquilesorei/Aquilesorei/blob/main/animation_500_kxa883sd.gif" alt="aquiles" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Fullstack web, mobile and sofware developer
 
 - 📫 How to reach me **achillezongo07@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
