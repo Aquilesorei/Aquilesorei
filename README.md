@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **achillezongo07@gmail.com**
 
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -93,7 +92,7 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aquilesorei&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
+    alt="aquilesorei" /></p>
 
 <br>
 
