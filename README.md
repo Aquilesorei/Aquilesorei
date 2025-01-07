@@ -5,7 +5,8 @@
 <p><img align="right" src="https://github.com/Aquilesorei/Aquilesorei/blob/main/animation_500_kxa883sd.gif" alt="aquiles" /></p>
 
 
-- 🌱 Fullstack web, mobile and sofware developer
+- 🌱 Fullstack sofware developer
+- Js , ts and Kotlin
 
 - 📧 How to reach me **achillezongo07@gmail.com**
 
