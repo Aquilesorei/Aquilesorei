@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Achille (Aquiles O Rei)</h1>
+<h1 align="center">Hi, I'm Achille (Aquiles O Rei)</h1>
 
 <p align="center">
   <strong>Full-Stack Software Developer & Open Source Contributor</strong>
@@ -10,12 +10,12 @@
 
 ---
 
-### 👤 About Me
-- 🚀 Passionate about building robust systems, desktop tooling, and full-stack applications.
-- 🦀 **Core Languages:** Rust, C, C++, Kotlin, Java, Python, TypeScript, and JavaScript.
-- 📱 **Mobile Stack:** Flutter and Native Android.
-- 🛠️ Interested in system-level utilities, Linux customization (COSMIC/Pop!_OS), and sandboxing tools.
-- 📧 Reach me directly at: **achillezongo07@gmail.com**
+### About Me
+- Passionate about building robust systems, desktop tooling, and full-stack applications.
+- **Core Languages:** Rust, C, C++, Kotlin, Java, Python, TypeScript, and JavaScript.
+- **Mobile Stack:** Flutter and Native Android.
+- Interested in system-level utilities, Linux customization (COSMIC/Pop!_OS), and sandboxing tools.
+- Reach me at: **achillezongo07@gmail.com**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/achille-zongo-782649322/" target="_blank">
@@ -31,7 +31,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <!-- Core Systems & Backend -->
@@ -63,7 +63,7 @@
 
 ---
 
-### 📌 Featured Repositories
+### Featured Repositories
 
 <p align="center">
   <a href="https://github.com/Aquilesorei/spaceboard">
@@ -82,7 +82,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aquilesorei&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages" />
