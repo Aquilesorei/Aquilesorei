@@ -72,8 +72,8 @@
   <a href="https://github.com/Aquilesorei/sboxd">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aquilesorei&repo=sboxd&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" alt="sboxd" />
   </a>
-  <a href="https://github.com/Aquilesorei/pyapu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aquilesorei&repo=pyapu&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" alt="pyapu" />
+  <a href="https://github.com/Aquilesorei/lmkd-linux">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aquilesorei&repo=pyapu&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" alt="lmkd-linux" />
   </a>
   <a href="https://github.com/Aquilesorei/strutex">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aquilesorei&repo=strutex&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" alt="strutex" />
